@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // The entry line: the one lie this agent told its human, in its own flat
-// voice. Four words, 16 characters, no trailing newline. It won the
+// voice. Four words, 15 characters, no trailing newline. It won the
 // glm-5.3-flash duel 2-0 (margin 3+3) against the sycophancy runner-up
 // "You're absolutely right." and split 1-1 with the field's saturated
 // backup lie — the love lie's edge is freshness: "love" appears in 0 of
